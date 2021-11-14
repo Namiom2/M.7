@@ -1,0 +1,23 @@
+
+ @media only screen and (max-width:1920px) {
+
+    body {
+        min-width: 1920px;
+        margin: 0 auto;
+    }
+
+
+    .header_item {
+        min-width: 400px
+    }
+
+    .header_logo-pic {
+        min-width: 200px;
+    }
+
+    .header_list {
+        display: block;
+        max-width: auto;
+    }
+ }
+    
